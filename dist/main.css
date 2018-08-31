@@ -1,3 +1,12 @@
+.brand-sm {
+  display: none; }
+
+.logo-big {
+  width: 170px; }
+
+.logo-sm {
+  width: 70px; }
+
 /*!
  * Bootstrap v4.1.1 (https://getbootstrap.com/)
  * Copyright 2011-2018 The Bootstrap Authors
